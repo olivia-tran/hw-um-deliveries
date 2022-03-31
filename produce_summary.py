@@ -1,5 +1,3 @@
-from webbrowser import get
-
 
 def get_delivery_data(day_num, file_path):
     """accepts day number and data summary file, outputs a report by day
